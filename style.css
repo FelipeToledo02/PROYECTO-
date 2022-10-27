@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: black;
+    background-color: white;
 }
 
 h1{
@@ -45,13 +45,13 @@ nav li:hover {
 h2 {
     font-size: xx-large;
     text-align: center;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     margin:0%;
 }
 p {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     ;
 }
 
